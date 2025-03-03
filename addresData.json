@@ -2,27 +2,27 @@
  {
    "name": "Meerkat",
    "thumbnail": "thumbnail/Meerkat.png",
-   "images": "image/Meerkat.png",
+   "image": "images/Meerkat.png",
    "musics": "musics/Meerkat.mp3"
  },
  {
    "name": "Tiger",
    "thumbnail": "thumbnail/Tiger.png",
-   "image": "image/Tiger.png",
+   "image": "images/Tiger.png",
    "musics": "musics/Tiger.mp3"
 
  },
  {
    "name": "Cockatiel(voodi)",
    "thumbnail": "thumbnail/Cockatiel(voodi).jpg",
-   "image": "image/Cockatiel(voodi).jpg",
+   "image": "images/Cockatiel(voodi).jpg",
    "musics": "musics/Cockatiel(voodi).mp3"
  }
  ,
  {
    "name": "Rabbit",
    "thumbnail": "thumbnail/Rabbit.png",
-   "image": "image/Rabbit.png",
+   "image": "images/Rabbit.png",
    "musics": "musics/Rabbit.mp3"
 
  }
